@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/opt/lampp/htdocs/testing1/app/modules/search/controllers/search.php</file>
+            <file>file:/opt/lampp/htdocs/testing1/app/views/frontend/header1.php</file>
+            <file>file:/opt/lampp/htdocs/testing1/app/modules/search/models/jobs.php</file>
+            <file>file:/opt/lampp/htdocs/testing1/app/modules/home/models/jobseeker_model.php</file>
+            <file>file:/opt/lampp/htdocs/testing1/app/views/frontend/leftsidebar1.php</file>
+            <file>file:/opt/lampp/htdocs/testing1/app/views/frontend/profile.php</file>
+            <file>file:/opt/lampp/htdocs/testing1/app/modules/search/views/createalert.php</file>
+            <file>file:/opt/lampp/htdocs/testing1/app/modules/search/views/saved_job.php</file>
+            <file>file:/opt/lampp/htdocs/testing1/app/modules/home/controllers/home.php</file>
+            <file>file:/opt/lampp/htdocs/testing1/app/modules/search/views/search_results.php</file>
+            <file>file:/opt/lampp/htdocs/testing1/app/modules/search/views/search.php</file>
+            <file>file:/opt/lampp/htdocs/testing1/app/modules/search/views/job_description.php</file>
+            <file>file:/opt/lampp/htdocs/testing1/app/modules/search/views/result_portion.php</file>
+            <file>file:/opt/lampp/htdocs/testing1/app/modules/home/controllers/jobseeker_home.php</file>
+            <file>file:/opt/lampp/htdocs/testing1/app/views/frontend/footer.php</file>
+            <file>file:/opt/lampp/htdocs/testing1/app/modules/home/views/home.php</file>
+        </group>
+    </open-files>
+</project-private>
